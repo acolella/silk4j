@@ -1,0 +1,15 @@
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\Unit_Test_Mobile.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\Unit_Test_Mobile.pdb
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\Unit_Test_Mobile.xml
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\CookComputing.XmlRpcV2.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\imageClient.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\WebDriver.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\HtmlAgilityPack.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\imageClient.xml
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\obj\Debug\Unit_Test_Mobile.Resources.resources
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\obj\Debug\Unit_Test_Mobile.vbproj.GenerateResource.Cache
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\obj\Debug\Unit_Test_Mobile.dll
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\obj\Debug\Unit_Test_Mobile.xml
+c:\users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\obj\Debug\Unit_Test_Mobile.pdb
+C:\Users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\Unit_Test_Mobile.dll.CodeAnalysisLog.xml
+C:\Users\antonio.silva\documents\visual studio 2013\Projects\Unit_Test_Mobile\Unit_Test_Mobile\bin\Debug\Unit_Test_Mobile.dll.lastcodeanalysissucceeded
