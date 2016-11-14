@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recorderProject version="17.5">
   <applicationConfiguration>
-    <browserType>GoogleChrome</browserType>
+    <browserType>InternetExplorer</browserType>
     <baseStateInfo>
       <locator>//BrowserApplication</locator>
-      <url>www.userede.com.br</url>
+      <url>sac.rsinet.com.br</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
       <string>OPT_ASSET_NAMESPACE</string>
-      <string>Teste_Silk4j</string>
+      <string>Silk4j</string>
+    </entry>
+    <entry>
+      <string>OPT_SHOW_PLAYBACK_STATUS_DIALOG</string>
+      <boolean>false</boolean>
+    </entry>
+    <entry>
+      <string>OPT_PLAYBACK_STATUS_DIALOG_SCREENSHOTS</string>
+      <boolean>true</boolean>
     </entry>
   </agentOptions>
 </recorderProject>
