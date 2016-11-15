@@ -1,0 +1,8 @@
+<ObjectMap version="1">
+  <ObjectMapEntry id="Calculadora" locator="/Window[@caption=&apos;Calculadora&apos;]">
+    <ObjectMapEntry id="1" locator="//PushButton[@caption=&apos;1&apos;]"/>
+    <ObjectMapEntry id="2" locator="//Label[@caption=&apos;2&apos;]"/>
+    <ObjectMapEntry id="Adicionar" locator="//PushButton[@caption=&apos;Adicionar&apos;]"/>
+    <ObjectMapEntry id="Igual a" locator="//PushButton[@caption=&apos;Igual a&apos;]"/>
+  </ObjectMapEntry>
+</ObjectMap>

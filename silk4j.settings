@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recorderProject version="17.5">
   <applicationConfiguration>
-    <browserType>InternetExplorer</browserType>
+    <moduleNamePattern>*\calc.exe</moduleNamePattern>
     <baseStateInfo>
-      <locator>//BrowserApplication</locator>
-      <url>sac.rsinet.com.br</url>
+      <executable>C:\Windows\system32\calc.exe</executable>
+      <workingDirectory>C:\Windows\system32</workingDirectory>
+      <locator>Calculadora</locator>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
