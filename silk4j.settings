@@ -1,25 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<recorderProject version="17.5">
+<?xml version="1.0" encoding="UTF-8"?><recorderProject version="15.0">
   <applicationConfiguration>
-    <moduleNamePattern>*\calc.exe</moduleNamePattern>
+    <browserType>InternetExplorer</browserType>
     <baseStateInfo>
-      <executable>C:\Windows\system32\calc.exe</executable>
-      <workingDirectory>C:\Windows\system32</workingDirectory>
-      <locator>Calculadora</locator>
+      <locator>//BrowserApplication</locator>
+      <url>https://www.google.com.br/</url>
     </baseStateInfo>
   </applicationConfiguration>
   <agentOptions>
     <entry>
       <string>OPT_ASSET_NAMESPACE</string>
       <string>Silk4j</string>
-    </entry>
-    <entry>
-      <string>OPT_SHOW_PLAYBACK_STATUS_DIALOG</string>
-      <boolean>false</boolean>
-    </entry>
-    <entry>
-      <string>OPT_PLAYBACK_STATUS_DIALOG_SCREENSHOTS</string>
-      <boolean>true</boolean>
     </entry>
   </agentOptions>
 </recorderProject>
